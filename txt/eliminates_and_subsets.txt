@@ -1,0 +1,162 @@
+ELIMINATES:
+ursula (21.9952):
+ ---- ariel (23.9333)
+slippery when dry (23.0439):
+ ---- somehow less slippery (22.6)
+Peak Load (24.0779):
+ ---- Loaded Up (27.0)
+Not Enough Left Shoulder (22.0):
+ ---- Nearly No Left Shoulder (23.0)
+Ghost Ship (22.6667):
+ ---- pirate’s bay (23.0)
+caesura (21.9671):
+ ---- catch me if you can 3 (22.0)
+Zulu Top (24.25):
+ ---- Zulu Direct (23.0)
+jo87 (23.0):
+ ---- menage a trois (23.9531)
+Break Sh*t (16.0571):
+ ---- Broke Sh*t (20.0)
+Mr.Krabs (22.0):
+ ---- Mr.Krabz (22.5)
+it’s a dyno to me (19.0):
+ ---- repurposed (21.0)
+Forever Wars (19.0):
+ ---- Forever War (18.0)
+Pinch training (20.0):
+ ---- Nectar of Wisdom (21.0)
+Nandato (27.0):
+ ---- Nanda (26.7083)
+fruit cake (19.3333):
+ ---- just fruit (24.0)
+How does Pittsburgh work? (22.8333):
+ ---- Am I constantly going in and out of Pittsburgh? (23.0)
+Bear Market (23.0):
+ ---- Great Depression (24.75)
+Pb and J (20.6):
+ ---- proj jelly (21.7143)
+Sammich's Warm Up Series: 2 (15.9487):
+ ---- jug pull through (17.6364)
+Punch it (24.7857):
+ ---- Can I Kick It? (24.0)
+Corner to corner (21.0):
+ ---- Corner-to-corner (21.0)
+Spider Man Reference (20.1429):
+ ---- uncle Ben elim (25.0)
+poop on the floor (15.3333):
+ ---- Poop on the Floor Express (16.1458)
+Sloe Horses (11.95):
+ ---- Medium Horses (13.0)
+Amateur Dynamics (22.0):
+ ---- Intermediate Dynamics (23.0)
+ ---- Advanced Dynamics (21.5)
+everyone is looking (22.9441):
+ ---- Nobody’s lookin’ for thisn’ (24.0)
+Everybody's lookin' (22.0):
+ ---- Nobody’s lookin’ for thisn’ (24.0)
+Barf Direct (22.0):
+ ---- Barf Direct (Eliminate) (23.8526)
+Flip that Grip (20.0):
+ ---- Flip das Grip (20.0)
+it’s worse now (23.0):
+ ---- even better (24.0)
+Catch me if you can 2 (22.896):
+ ---- Catch me if you can 3 (22.0)
+SB V2 10x8 (16.25):
+ ---- The Chaz (17.9458)
+Space Between V2 - For Shorties (15.0):
+ ---- Space Between V2 (15.0438)
+Boxcar racer (19.9658):
+ ---- Boxcar Eraser (22.0)
+You got pinched! (21.9469):
+ ---- Yinz Got Pinched (21.9)
+slow day at work (23.0):
+ ---- slower day at work (25.0)
+Coyote’s friends (20.2676):
+ ---- Lonely Coyote (20.5)
+Dingle Berry (13.9352):
+ ---- Dingle Berries (15.2143)
+Destroyer of Shoulders (26.0):
+ ---- save your shoulder (26.0)
+Dwarven Metal Lite (15.0):
+ ---- Dwarven Metal (16.0)
+We Need Jungle I’m Afraid (24.0):
+ ---- Drum and Bass (23.0)
+Space Between V8 (23.9929):
+ ---- More Space Between (27.0)
+Maxamoose (22.9502):
+ ---- minimus (24.8)
+traverse reduced (13.0):
+ ---- traverse direct (15.0)
+SB V3 10x8 (15.8889):
+ ---- Backyard Bobcat (15.8966)
+unearthed (25.84):
+ ---- unsmurfed (26.0)
+robot voice box (14.88):
+ ---- robot voice box minus one (25.4)
+Blood Bath & Beyond (23.0):
+ ---- Blood Bath & Beyond Direct (23.0)
+Cryptozoology (23.0):
+ ---- Cryptozoology Direct (24.0)
+
+
+SUBSETS:
+Marionette Relaxation (15.3333):
+ ---- Flash? (16.0)
+Inspo (16.3333):
+ ---- Flash? (16.0)
+POW (20.4286):
+ ---- Flash? (16.0)
+I Hear Voices (extension) (23.0):
+ ---- I Hear Voices (22.9788)
+big fish in a big pond (24.0):
+ ---- big fish in a small pond (23.0)
+Rocket to Mercury (18.0):
+ ---- Mumba in space (18.3333)
+Space Between V2 (15.0438):
+ ---- The Chaz (17.9458)
+ ---- SB V2 10x8 (16.25)
+Space Between V2 - For Shorties (15.0):
+ ---- The Chaz (17.9458)
+ ---- SB V2 10x8 (16.25)
+Hueco Bum Aggression (26.75):
+ ---- Hueco Bummer (27.0)
+Heliotrope (23.0):
+ ---- danger spray (21.75)
+lo más triste (27.8235):
+ ---- Lo más short (27.0)
+groovy extensions (24.0):
+ ---- Groovy (24.0385)
+nobby 1 (13.3167):
+ ---- Wool Smocks (13.2564)
+Bloom Room extended (20.0):
+ ---- Bloom Room (20.0323)
+My Gourd Smashed Me (22.0):
+ ---- You Squashed My Gourd (22.0)
+NoLa (23.0):
+ ---- The Louisiana Purchase (21.8)
+stay with the feet sit (19.5):
+ ---- Stay With The Feet (18.0)
+Fist Full (20.0):
+ ---- Doable (23.0)
+ ---- TB1_sim_2000 (23.0)
+Wide Boyz (20.5):
+ ---- Doable (23.0)
+ ---- TB1_sim_2000 (23.0)
+The Third Horcrux (21.8):
+ ---- Doable (23.0)
+ ---- TB1_sim_2000 (23.0)
+pacifier (21.0):
+ ---- Doable (23.0)
+ ---- TB1_sim_2000 (23.0)
+grey eyes (19.0):
+ ---- Doable (23.0)
+ ---- TB1_sim_2000 (23.0)
+Quebecois Connection (23.8):
+ ---- French Connection (23.0)
+GZ Ping It ext. (25.0):
+ ---- GZ Ping it (23.2)
+Nuclear Methane (22.0):
+ ---- Throw of the worlds (20.5)
+sold my soul to extension. (28.0):
+ ---- Sold my soul to tension (26.9286)
