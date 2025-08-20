@@ -15,6 +15,8 @@
 3. Problem A's feet are a subset of Problem B's feet.
 4. Problem A's start or finish is a subset of Problem B's middle.
 
+*\* subset can also be used in the mathematical sense, depending on the context*
+
 ## Table of Contents
 
 **main.py:** Implementation of the main process, which
