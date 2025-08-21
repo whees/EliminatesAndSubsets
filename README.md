@@ -2,7 +2,7 @@
 
 ## Definitions
 
-Given two problems, Alpha and Beta,
+Given two problems, Alpha and Beta
 
 **eliminate:** Alpha is an eliminate of Beta if and only if:
 
