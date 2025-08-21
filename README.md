@@ -17,8 +17,8 @@ Given two problems, Alpha and Beta
 3. Alpha's feet are a subset of Beta's feet.
 4. Alpha's start or finish is a subset of Beta's middle.
 
-*\* Subset can also denote a set theoretic subset, depending on the context.  
- Set theoretic subsets apply to sets, board theoretic subsets apply to problems.*
+    *\*Subset can also denote a set theoretic subset, depending on the context.  
+    Set theoretic subsets apply to sets, board theoretic subsets apply to problems.*
 
 ## Table of Contents
 
