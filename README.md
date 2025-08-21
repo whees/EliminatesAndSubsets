@@ -2,20 +2,23 @@
 
 ## Definitions
 
-**eliminate:** Problem A is an eliminate of Problem B if and only if:
+Given two problems, Alpha and Beta,
 
-1. Problem A has the same start AND finish as Problem B.
-2. Problem A's middle is a subset of Problem B's middle.
-3. Problem A's feet are a subset of Problem B's feet.
+**eliminate:** Alpha is an eliminate of Beta if and only if:
 
-**subset:** Problem A is a subset of Problem B if and only if:
+1. Alpha has the same start AND finish as Beta.
+2. Alpha's middle is a subset\* of Beta's middle.
+3. Alpha's feet are a subset of Beta's feet.
 
-1. Problem A has the same start OR finish as Problem B.
-2. Problem A's middle is a subset of Problem B's middle.
-3. Problem A's feet are a subset of Problem B's feet.
-4. Problem A's start or finish is a subset of Problem B's middle.
+**subset:** Alpha is a subset of Beta if and only if:
 
-*\* subset can also refer to a set theoretic subset, depending on the context.*
+1. Alpha has the same start OR finish as Beta.
+2. Alpha's middle is a subset of Beta's middle.
+3. Alpha's feet are a subset of Beta's feet.
+4. Alpha's start or finish is a subset of Beta's middle.
+
+*\* Subset can also denote a set theoretic subset, depending on the context.  
+Set theoretic subsets apply to sets, not problems.*
 
 ## Table of Contents
 
