@@ -2,7 +2,7 @@
 
 ## Definitions
 
-Given two problems, Alpha and Beta
+Given two problems, Alpha and Beta...
 
 **eliminate:** Alpha is an eliminate of Beta if and only if:
 
@@ -23,12 +23,12 @@ Given two problems, Alpha and Beta
 
 **main.py:** Implementation of the main process
 
-1. Creates a librarian and a sieve.  
-2. Feeds the librarian's climbs through the sieve to sort by start, finish.  
-3. Uses sieve to find eliminates and subsets.  
-4. Saves eliminates and subsets to a .txt file at 'txt/eliminates_and_subsets.txt'.  
+1. Creates a librarian and a sieve.
+2. Feeds the librarian's climbs through the sieve to sort by start, finish.
+3. Uses sieve to find eliminates and subsets.
+4. Saves eliminates and subsets to a .txt file at 'txt/eliminates_and_subsets.txt'.
 
-**librarian.py:** Implementation of Librarian object to parse 'txt/climbs.txt' for climb data.  
+**librarian.py:** Implementation of Librarian object to parse 'txt/climbs.txt' for climb data.
 
 **climb.py:** Implementation of Climb and Holds objects to store climb data.
 
