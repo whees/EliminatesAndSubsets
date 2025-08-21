@@ -67,7 +67,7 @@ class Climb:
         finish_key = [hold for hold in holds.finish]
         finish_key.sort()       
         
-        if len(finish_key) == 1:
+        if len(finish_key) < 2:
             finish_key.extend(finish_key)
                     
         return tuple(finish_key)
