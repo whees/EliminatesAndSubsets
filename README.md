@@ -19,7 +19,7 @@
 
 ## Table of Contents
 
-**main.py:** Implementation of the main process, which
+**main.py:** Implementation of the main process
 
 1. Creates a librarian and a sieve.  
 2. Feeds the librarian's climbs through the sieve to sort by start, finish.  
